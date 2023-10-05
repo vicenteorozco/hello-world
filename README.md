@@ -1,2 +1,2 @@
 # hello-world
-Este es un breve mensaje de hola mundo,para comprobar el dato
+Este es un breve mensaje de hola mundo,para comprobar el dato vicente mina orozco 
